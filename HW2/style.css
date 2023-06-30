@@ -1,0 +1,27 @@
+.header{
+    background-color: rgb(146, 153, 250);
+    margin: 100px;
+    height: 70px;
+}
+.title{
+	font-size: 36px;
+	padding-top: 10px;
+	text-align: center;
+}
+.menu{
+	list-style: none;
+	position: absolute;
+	top: 10px;
+	right: 100px;
+}
+.image{
+    padding-right: 50px;
+}
+.content{
+    margin: 100px;
+    display: flex;
+}
+.footer{
+    background-color: dodgerblue;
+    margin: 100px;
+}
